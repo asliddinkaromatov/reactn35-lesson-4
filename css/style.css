@@ -1,0 +1,53 @@
+/* start parent */
+.parent{
+    text-align: center;
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.html-link{
+    text-decoration: none;
+    text-transform:uppercase;
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    
+}
+
+.text{
+ font-size: 50px;
+}
+.button-home  {
+   background-color: green; 
+   color: white;
+   padding: 15px 20px 15px 20px;
+   font-size: 20px;
+}
+.button-next{
+    background-color: green; 
+    color: white;
+    padding: 15px 17px 15px 17px;
+    font-size: 20px;
+}
+/* end parent */
+
+/* start pernt-1 */
+
+.parent-1{
+    background-color:rgba(90, 200, 150, 0.5);  
+    padding-top: 5px ;
+  }
+  .parent-1 p{
+      margin-bottom: 30px;
+      font-size: 20px;
+  }
+  .button-study{
+      background-color: green; 
+      color: white;
+      font-size: 20px;
+      padding: 15px 5px;
+      word-spacing: 3px;
+  }
+  
+
+  /* end parent-1 */
